@@ -43,6 +43,7 @@ h1 {
 
 .contact-form button:hover{
     background-color: #4c87c2;
+    transition: 0.5s;
 }
 
 .contact-list {
